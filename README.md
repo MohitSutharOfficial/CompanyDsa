@@ -1,9 +1,14 @@
-50 tricks to identify DSA Patterns Link: https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y
-<br>
-2000 Top Companies HR Email ID: https://drive.google.com/drive/folders/1hJlxWGMr1UfV9UH84d_HjFP7InTMpPII
-<br>
-Internship Calender: https://aicteinternship.in/off-campus-internship-calendar-2025/
+## 50 tricks to identify DSA Patterns Link: 
+https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y
 
+## 2000 Top Companies HR Email ID: 
+https://drive.google.com/drive/folders/1hJlxWGMr1UfV9UH84d_HjFP7InTMpPII
+
+### Internship Calender:
+https://aicteinternship.in/off-campus-internship-calendar-2025/
+
+<h1>DSA Problems sheet</h1>
+  
 | Company Name        | DSA Problem Link                                                                                                                                       | Tricks for Solving Patterns                          |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | Google              | [Google DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Focus on backtracking and dynamic programming.       |
@@ -41,3 +46,6 @@ Internship Calender: https://aicteinternship.in/off-campus-internship-calendar-2
 | Tesla               | [Tesla DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                          | Work on graph traversal and dynamic programming.     |
 | TikTok              | [TikTok DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Prioritize dynamic programming and recursion.        |
 | Nvidia              | [Nvidia DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Practice bit manipulation and backtracking.          |
+
+
+Please ❤️ Appriciate my work .Give star '⭐'
