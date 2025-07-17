@@ -63,7 +63,6 @@
 | Google India    | 7.0+     | Software Engineer  | ₹30 – ₹40 LPA | DSA, System Design, OS, CN, ML |
 | Microsoft India | 7.0+     | Software Engineer  | ₹30 – ₹45 LPA | DSA, OOPs, OS, DBMS, Projects  |
 | Amazon India    | 7.0+     | SDE-1              | ₹25 – ₹30 LPA | DSA, Problem Solving, CN ,DBMS |
-
 | Adobe India         | 7.0+     | Software Engineer       | ₹25 – ₹30 LPA        | Algorithms, DBMS, Aptitude                     |
 | VMware              | 7.0+     | MTS                     | ₹20 – ₹25 LPA        | System Programming, OS, Virtualization         |
 | Atlassian           | 7.0+     | Software Engineer       | ₹25 – ₹28 LPA        | DSA, Backend Dev, Cloud                        |
